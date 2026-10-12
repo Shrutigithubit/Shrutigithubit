@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shruti Lokhande 👋
 
-<!--
-**Shrutigithubit/Shrutigithubit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Information Technology student graduating in 2027.
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst interested in transforming raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming:** Python, Java
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
+- **Database:** MySQL
+- **Excel:** PivotTables, lookup functions, Power Query
+- **Visualization:** Matplotlib, Seaborn
+- **Currently Learning:** Power BI and dashboard development
+
+### Featured Project
+**Superstore Sales Analysis**
+- Analyzed sales data using Python, Pandas, and SQL.
+- Explored category-wise, customer-segment, and state-wise sales.
+- Created visualizations to communicate business findings.
+
+### Connect With Me
+- LinkedIn: https://linkedin.com/in/shruti-daulat-lokhande
+- GitHub: https://github.com/Shrutigithubit
